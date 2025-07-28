@@ -1,0 +1,2 @@
+My first project is for learning Git and GitHub
+Skills to learn: Python, SQL, Git
